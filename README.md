@@ -7,7 +7,10 @@ Hello! I'm Rangga Afriansyah, a passionate backend web developer with expertise 
 
 <table border = '0'>
   <tr>
-    <td colspan = '2'># Skills:</td>
+    <th colspan = '2'># Skills:</th>
+  </tr>
+  <tr>
+    <td colspan = '2'>ERP Development</td>
   </tr>
   <tr>
     <td>- PHP</td>
